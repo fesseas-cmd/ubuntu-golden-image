@@ -1,0 +1,9 @@
+# Secretos: NUNCA a GitHub
+*.auto.pkrvars.hcl
+*.pkrvars.hcl
+terraform.tfvars
+
+# Generados por Packer
+*.log
+packer_cache/
+manifest.json
